@@ -1,3 +1,5 @@
+var PORT = process.env.PORT || 5000;
+
 const API_URL = 'https://rickandmortyapi.com/api/character/';
 const rootElement = document.getElementById('root');
 const loadingElement = document.getElementById('loading-overlay');

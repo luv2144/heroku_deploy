@@ -1,0 +1,20 @@
+{
+  "name": "heroku_deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luv2144/heroku_deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luv2144/heroku_deploy/issues"
+  },
+  "homepage": "https://github.com/luv2144/heroku_deploy#readme"
+}
